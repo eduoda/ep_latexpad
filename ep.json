@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "latexpad",
+      "hooks": {
+        "padUpdate": "ep_latexpad/server_main:padUpdate"
+      }
+    }
+  ]
+}

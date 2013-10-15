@@ -1,0 +1,20 @@
+{
+  "name": "ep_latexpad",
+  "version": "0.0.1",
+  "description": "Integration with OwnCloud LatexPad module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Eduardo Oda",
+    "email": "oda@member.fsf.org"
+  },
+  "license": "AGPL v3.0",
+  "readme": "ERROR: No README data found!",
+  "_id": "ep_latexpad@0.0.1",
+  "dist": {
+    "shasum": "24f2e921d96134278968e04c3e4273428413a0d6"
+  },
+  "_from": "ep_latexpad"
+}
